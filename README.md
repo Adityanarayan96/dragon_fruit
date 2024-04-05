@@ -1,1 +1,1 @@
-Python notebook: self contained to answer all assingment questions
+Python notebook: self contained to answer all Assignment questions
